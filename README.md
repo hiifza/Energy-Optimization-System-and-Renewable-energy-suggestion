@@ -59,6 +59,4 @@ Feel free to fork the repository, submit pull requests, or report issues to impr
 
 **GitHub Repository:** [Energy Optimization System and Renewable Energy Suggestion](https://github.com/hiifza/Energy-Optimization-System-and-Renewable-energy)
 
----
 
-This README is now **complete, well-structured, and formatted for clarity**. Let me know if you need any final edits!
